@@ -276,9 +276,9 @@ def analyze_external_urls(external_urls, scraper_instance):
 
 # Main execution with user choice
 def main():
-    target_url = input("Masukkan URL website (default: https://catenalabs.com/): ").strip()
+    target_url = input("Masukkan URL website (default: https://example.com/): ").strip()
     if not target_url:
-        target_url = "https://catenalabs.com/"
+        target_url = "https://example.com/"
     
     include_external = input("Scrape external URLs juga? (y/N): ").strip().lower() == 'y'
     
