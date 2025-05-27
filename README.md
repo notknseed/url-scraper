@@ -25,15 +25,21 @@ This tool provides 4 different methods to scrape URLs from websites:
 
 ### Windows
 
+clone repository
+
+```bash
+git clone https://github.com/notknseed/url-scraper.git
+``` 
+
 #### For 64-bit Windows:
-1. Download all files to a folder
+1. Open url-scraper folder
 2. Right-click `installer_windows_64_bit.bat` → "Run as administrator"
    this will install python (if not installed yet) and all the requirements
 4. Wait for installation to complete
 5. Double-click `run_scraper.bat` to start scraping
 
 #### For 32-bit Windows:
-1. Download all files to a folder
+1. Download url-scraper folder
 2. Right-click `installer_windows_32_bit.bat` → "Run as administrator"
    this will install python (if not installed yet) and all the requirements  
 4. Wait for installation to complete
