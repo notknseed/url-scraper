@@ -28,14 +28,16 @@ This tool provides 4 different methods to scrape URLs from websites:
 #### For 64-bit Windows:
 1. Download all files to a folder
 2. Right-click `installer_windows_64_bit.bat` → "Run as administrator"
-3. Wait for installation to complete
-4. Double-click `run_scraper.bat` to start scraping
+   this will install python (if not installed yet) and all the requirements
+4. Wait for installation to complete
+5. Double-click `run_scraper.bat` to start scraping
 
 #### For 32-bit Windows:
 1. Download all files to a folder
-2. Right-click `installer_windows_32_bit.bat` → "Run as administrator"  
-3. Wait for installation to complete
-4. Double-click `run_scraper.bat` to start scraping
+2. Right-click `installer_windows_32_bit.bat` → "Run as administrator"
+   this will install python (if not installed yet) and all the requirements  
+4. Wait for installation to complete
+5. Double-click `run_scraper.bat` to start scraping
 
 ### macOS
 
